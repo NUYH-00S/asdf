@@ -1,6 +1,7 @@
 {
-  "name": "car-input",
+  "name": "sharecar-car-registration",
   "version": "1.0.0",
+  "description": "Car registration system for ShareCar platform",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.14.0",
